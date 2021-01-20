@@ -2,7 +2,7 @@
 
 My name is Mitch Krieger and I'm a creative data scientist and design thinker with experience in python, statistical analysis, machine learning, and time series analysis. With a background in math education and non-profit management, I use data storytelling to help make numbers, data, and abstract ideas make sense to people and organizations so that they can make informed data-driven decisions.
 
-## Projects
+## Highlighted Projects
 
 #### [Rebalancing the Citibike System](https://github.com/mitkrieg/citibike-timeseries)
 
@@ -16,6 +16,16 @@ Kickstarter only recieves revenue when projects only get fully funded by backers
 #### [Alzheimers Progression Classifier using Coronal MRI](https://github.com/Jacobheyman702/Alzheimer_Image_classifier-)
 
 This project attemps to classify images of coronal MRIs of Alzheimers patient's brains into one of 4 progressive stages of demensia using convoluted nerual networks and transfer learning. The goal was to create a model that could be used as a preliminary diagnosis for new patients with early signs of dimentia and limit false negatives. We created several neural networks and leveraged transfer learning to improve the recall metric, but ultimately the model was limited by regular brain aging, the overlap between the classes, and the large variance in the non-demented class. ([Project Walkthrough](https://github.com/Jacobheyman702/Alzheimer_Image_classifier-))
+
+## Medium Articles
+
+**Towards Data Science**
+- [How to make your own Instagram filter with facial recognition from scratch using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)
+- [How to Collect Live Feed and Frequently Updated Data Using Cron](https://towardsdatascience.com/how-to-collect-live-feed-and-frequently-updated-data-using-cron-994b42740abd)
+- [I thought animals lived in Zoos? Selecting computer vision models from model zoos](https://towardsdatascience.com/why-build-a-model-if-you-can-steal-one-computer-vision-without-training-models-c259a165cd90)
+
+**The Startup**
+- [Do We Listen? An Exploration of Social Distancing in NYC Parks](https://medium.com/swlh/do-we-listen-an-exploration-of-social-distancing-in-nyc-parks-50f9286a65b6)
 
 <!--
 **mitkrieg/mitkrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
