@@ -17,6 +17,10 @@ Kickstarter only recieves revenue when projects only get fully funded by backers
 
 This project attemps to classify images of coronal MRIs of Alzheimers patient's brains into one of 4 progressive stages of demensia using convoluted nerual networks and transfer learning. The goal was to create a model that could be used as a preliminary diagnosis for new patients with early signs of dimentia and limit false negatives. We created several neural networks and leveraged transfer learning to improve the recall metric, but ultimately the model was limited by regular brain aging, the overlap between the classes, and the large variance in the non-demented class. ([Project Walkthrough](https://github.com/Jacobheyman702/Alzheimer_Image_classifier-))
 
+#### [Predicting Credit Card Defaults](https://github.com/mitkrieg/predicting-defaults)
+
+To optimize returns, Banks must manage their risk when providing credit cards to customers. This project attempts to create a model that predicts if a client will or will not default on their credit card loan. This project was a competition with classmates to see who could achieve the model with the best F-1 scores that predicts people who will default on a holdout dataset. My best model was a random forrest and had an F-1 score of .56 on the test portion of the dataset. When the holdout competition dataset was run through the model it performed 3rd best in the class.
+
 ## Medium Articles
 
 **Towards Data Science**
@@ -26,6 +30,13 @@ This project attemps to classify images of coronal MRIs of Alzheimers patient's 
 
 **The Startup**
 - [Do We Listen? An Exploration of Social Distancing in NYC Parks](https://medium.com/swlh/do-we-listen-an-exploration-of-social-distancing-in-nyc-parks-50f9286a65b6)
+
+## Connect with Me
+<a href="https://www.linkedin.com/in/kriegermitchell/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://mitchellkrieger.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="mailto:mitkrieger@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+
+## Currently Working On
+
+- Developing Reccomendation Engine for Movies Using Spark and other Big Data Techniques
 
 <!--
 **mitkrieg/mitkrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
