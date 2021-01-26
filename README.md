@@ -15,7 +15,7 @@ Kickstarter only recieves revenue when projects only get fully funded by backers
 
 #### [Alzheimers Progression Classifier using Coronal MRI](https://github.com/Jacobheyman702/Alzheimer_Image_classifier-)
 
-This project attemps to classify images of coronal MRIs of Alzheimers patient's brains into one of 4 progressive stages of demensia using convoluted nerual networks and transfer learning. The goal was to create a model that could be used as a preliminary diagnosis for new patients with early signs of dimentia and limit false negatives. We created several neural networks in Keras/Tensorflow and leveraged transfer learning to improve the recall metric, but ultimately the model was limited by regular brain aging, the overlap between the classes, and the large variance in the non-demented class. ([Project Walkthrough](https://www.loom.com/share/acc35b43694f409ba2bcc09c7c5c567e)
+This project attemps to classify images of coronal MRIs of Alzheimers patient's brains into one of 4 progressive stages of demensia using convoluted nerual networks and transfer learning. The goal was to create a model that could be used as a preliminary diagnosis for new patients with early signs of dimentia and limit false negatives. We created several neural networks in Keras/Tensorflow and leveraged transfer learning to improve the recall metric, but ultimately the model was limited by regular brain aging, the overlap between the classes, and the large variance in the non-demented class. ([Project Walkthrough](https://www.loom.com/share/acc35b43694f409ba2bcc09c7c5c567e))
 
 #### [Predicting Credit Card Defaults](https://github.com/mitkrieg/predicting-defaults)
 
