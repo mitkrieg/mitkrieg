@@ -37,6 +37,8 @@ To optimize returns, Banks must manage their risk when providing credit cards to
 ## Currently Working On
 
 - Developing Reccomendation Engine for Movies Using Spark and other Big Data Techniques
+- Learning R
+- Investigating the Amazon Web Serives and cloud computing
 
 <!--
 **mitkrieg/mitkrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
