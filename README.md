@@ -21,6 +21,10 @@ This project attemps to classify images of coronal MRIs of Alzheimers patient's 
 
 To optimize returns, Banks must manage their risk when providing credit cards to customers. This project attempts to create a model that predicts if a client will or will not default on their credit card loan. This project was a competition with classmates to see who could achieve the model with the best F-1 scores that predicts people who will default on a holdout dataset. My best model was a random forrest and had an F-1 score of .56 on the test portion of the dataset. When the holdout competition dataset was run through the model it performed 3rd best in the class.
 
+#### [Predicting Housing Prices in King Count, WA](https://github.com/mitkrieg/predicting-housing-prices)
+
+Real Estate agents must be able to assess value of a home to better be able to market, negotiate the price and eventually sell the home. The goal of this project is to predict housing prices as acurately as possible prices with a somewhat interpretable model, allowing the agent to understand what factors lead to a more expensive home and estimate what the value of the home should be. Ultimately, through mutliple linear regression using various features, prices for houses in a test set were predicted with an RMSE of \$165,802.93
+
 ## Medium Articles
 
 **Towards Data Science**
