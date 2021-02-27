@@ -32,6 +32,7 @@ Real Estate agents must be able to assess value of a home to better be able to m
 - [How to Collect Live Feed and Frequently Updated Data Using Cron](https://towardsdatascience.com/how-to-collect-live-feed-and-frequently-updated-data-using-cron-994b42740abd)
 - [I thought animals lived in Zoos? Selecting computer vision models from model zoos](https://towardsdatascience.com/why-build-a-model-if-you-can-steal-one-computer-vision-without-training-models-c259a165cd90)
 - [Time Series Analysis with Facebook Prophet: How it works and How to use it](https://mitchellkrieger.medium.com/time-series-analysis-with-facebook-prophet-how-it-works-and-how-to-use-it-f15ecf2c0e3a)
+- [Callbacks, Layouts, & Bootstrap: How to Create Dashboards in Plotly Dash](https://mitchellkrieger.medium.com/callbacks-layouts-bootstrap-how-to-create-dashboards-in-plotly-dash-1d233ff63e30)
 
 **The Startup**
 - [Do We Listen? An Exploration of Social Distancing in NYC Parks](https://medium.com/swlh/do-we-listen-an-exploration-of-social-distancing-in-nyc-parks-50f9286a65b6)
