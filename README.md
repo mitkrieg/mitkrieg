@@ -43,6 +43,7 @@ Real Estate agents must be able to assess value of a home to better be able to m
 ## Currently Working On
 
 - Developing Reccomendation Engine for Movies Using Spark and other Big Data Techniques
+- Natural Language Processing & Sentiment Analysis
 - Learning R
 - Investigating the Amazon Web Serives and cloud computing
 
