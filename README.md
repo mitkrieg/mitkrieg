@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Mitch Krieger and I'm a creative data scientist and design thinker with experience in python, statistical analysis, machine learning, and time series analysis. With a background in math education and non-profit management, I use data storytelling to help make numbers, data, and abstract ideas make sense to people and organizations so that they can make informed data-driven decisions.
+My name is Mitch Krieger and I'm a creative data scientist and design thinker with experience in python, statistical analysis, machine learning, and time series analysis. With a background in math education and non-profit management, I use data storytelling to help make numbers, data, and abstract ideas make sense to people and organizations so that they can make informed data-driven decisions. I currently work for [BlockFi](http://blockfi.com/) as a Business Intelligence Analyst working with cryptocurrency data data across finance, compliance, fraud, and PeopleOps verticals.
 
 ## Highlighted Projects
 
@@ -42,10 +42,8 @@ Real Estate agents must be able to assess value of a home to better be able to m
 
 ## Currently Working On
 
-- Developing Reccomendation Engine for Movies Using Spark and other Big Data Techniques
-- Natural Language Processing & Sentiment Analysis
-- Learning R
-- Investigating the Amazon Web Serives and cloud computing
+- Learning Databricks and Spark
+- Blockchain development
 
 <!--
 **mitkrieg/mitkrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
