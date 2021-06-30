@@ -24,7 +24,7 @@ To optimize returns, Banks must manage their risk when providing credit cards to
 
 Real Estate agents must be able to assess value of a home to better be able to market, negotiate the price and eventually sell the home. The goal of this project is to predict housing prices as acurately as possible prices with a somewhat interpretable model, allowing the agent to understand what factors lead to a more expensive home and estimate what the value of the home should be. Ultimately, through mutliple linear regression using various features, prices for houses in a test set were predicted with an RMSE of \$165,802.93
 
-#### [Journey HOme: A Gravity Based Game](https://github.com/mitkrieg/Gravity)
+#### [Journey Home: A Gravity Based Game](https://github.com/mitkrieg/Gravity)
 
 You are an astronaut whose drifting ship has run out of fuel. As you inexplicably possess the ability to place heavenly objects, your only hope for survival is using the gravitational pull of space things to affect your trajectory and get you home. Journey home is a python based video game using the pygame library. [Game Demo](https://www.youtube.com/watch?v=EnXRUZDFae4&feature=emb_logo)
 
