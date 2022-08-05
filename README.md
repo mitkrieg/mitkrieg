@@ -45,7 +45,7 @@ Real Estate agents must be able to assess value of a home to better be able to m
 
 ## Currently Working On
 
-- Learning Databricks and Spark
+- Neural Network model architecture
 - Blockchain development
 
 <!--
