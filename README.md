@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Mitch Krieger and I'm a creative data scientist and design thinker with experience in python, statistical analysis, machine learning, and time series analysis. With a background in math education and non-profit management, I use data storytelling to help make numbers, data, and abstract ideas make sense to people and organizations so that they can make informed data-driven decisions. I currently work for [BlockFi](http://blockfi.com/) as a Business Intelligence Analyst working with cryptocurrency data across finance, compliance, fraud, and client services verticals.
+Mitch Krieger is a New York City based creative data scientist, machine learning engineer and design thinker with experience in python, statistical analysis, machine learning, and time series analysis. With a background in math education and non-profit management, Mitch uses data storytelling and machine learning to help make numbers, data, and abstract ideas make sense to people and organizations so that they can make informed data-driven decisions, automate processes, and make predictions. I currently work for [Middesk](http://middesk.com) as a Data Scientist helping to build/manage machine learning modlels, business analytics and data investigations for Middesk's business identity platform. Formerly I worked at [BlockFi](http://blockfi.com/) leveraging cryptocurrency data across the finance, compliance, fraud, and client services verticals. Before becoming a data scientist I worked in education as a teacher, non-profit leader and mentor at institutions such as New York Univeristy, L!FE Leaders Inc and CITYterm at the Masters School. 
 
 ## Highlighted Projects
 
@@ -40,11 +40,16 @@ Real Estate agents must be able to assess value of a home to better be able to m
 **The Startup**
 - [Do We Listen? An Exploration of Social Distancing in NYC Parks](https://medium.com/swlh/do-we-listen-an-exploration-of-social-distancing-in-nyc-parks-50f9286a65b6)
 
+## Additional Cool Stuff
+
+In May 2022, Mitch spoke at the Chainalysis LINKS Conference with colleagues from BlockFi about leveraging the power of blockchain data to generate insights that help drive revenue, increase security and mitigate risk in crypto markets. [Check it out on YouTube](https://www.youtube.com/watch?v=k6Z80PX9Uwc&ab_channel=Chainalysis)
+
 ## Connect with Me
 <a href="https://www.linkedin.com/in/kriegermitchell/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://mitchellkrieger.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="mailto:mitkrieger@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
 
-## Currently Working On
+## Currently Working On Learning More About
 
+- Artificial Intelligence
 - Neural Network model architecture
 - Blockchain development
 
