@@ -41,6 +41,7 @@ In May 2022, Mitch spoke at the Chainalysis LINKS Conference with colleagues fro
 - Neural Network model architecture
 - Blockchain development
 - C++
+- iOS Game Dev
 
 <!--
 **mitkrieg/mitkrieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
