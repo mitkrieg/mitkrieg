@@ -1,6 +1,10 @@
 ### Hello 👋
 
-Mitch Krieger is a New York City based creative data scientist, machine learning engineer and design thinker with experience in python, statistical analysis, machine learning, and time series analysis. With a background in math education and non-profit management, Mitch uses data storytelling and machine learning to help make numbers, data, and abstract ideas make sense to people and organizations so that they can make informed data-driven decisions, automate processes, and make predictions. I currently work for [Middesk](http://middesk.com) as a Data Scientist helping to build/manage machine learning modlels, business analytics and data investigations for Middesk's business identity platform. Formerly I worked at [BlockFi](http://blockfi.com/) leveraging cryptocurrency data across the finance, compliance, fraud, and client services verticals. Before becoming a data scientist I worked in education as a teacher, non-profit leader and mentor at institutions such as New York Univeristy, L!FE Leaders Inc and CITYterm at the Masters School. 
+I am a Data Scientist based in New York City with a passion for collaborating with business partners to design machine-learning models and AI-driven solutions that enhance product offerings and empower data-driven decision-making. 
+
+What sets me apart is my dual expertise in data science and education. Before transitioning into tech, I was an interdisciplinary teacher, education administrator, and designer with a focus on reimagining mathematics education. My background in educational technology and curriculum development has given me a unique skill set: the ability to craft compelling data stories that resonate with both technical and non-technical stakeholders. I bridge the gap between data and decision-makers, ensuring that everyone—from C-suite executives to frontline teams—can harness the power of data in their work. Whether I’m optimizing an industry classification model, conducting academic research to guide model development, designing interactive tools for client management, or presenting at a conference, my focus is always on creating data solutions that are both impactful and understandable. I currently work for [Middesk](http://middesk.com) as a Data Scientist helping to build/manage machine learning modlels, business analytics and data investigations for Middesk's business identity platform. Formerly I worked at [BlockFi](http://blockfi.com/) leveraging cryptocurrency data across the finance, compliance, fraud, and client services verticals. 
+
+Let’s connect if you’re interested in the intersection of data science, machine learning / AI, education, and business strategy!
 
 ## Highlighted Projects
 
@@ -21,7 +25,6 @@ This project attemps to classify images of coronal MRIs of Alzheimers patient's 
 **Towards Data Science**
 - [How to make your own Instagram filter with facial recognition from scratch using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)
 - [How to Collect Live Feed and Frequently Updated Data Using Cron](https://towardsdatascience.com/how-to-collect-live-feed-and-frequently-updated-data-using-cron-994b42740abd)
-- [I thought animals lived in Zoos? Selecting computer vision models from model zoos](https://towardsdatascience.com/why-build-a-model-if-you-can-steal-one-computer-vision-without-training-models-c259a165cd90)
 - [Time Series Analysis with Facebook Prophet: How it works and How to use it](https://mitchellkrieger.medium.com/time-series-analysis-with-facebook-prophet-how-it-works-and-how-to-use-it-f15ecf2c0e3a)
 - [Callbacks, Layouts, & Bootstrap: How to Create Dashboards in Plotly Dash](https://mitchellkrieger.medium.com/callbacks-layouts-bootstrap-how-to-create-dashboards-in-plotly-dash-1d233ff63e30)
 
